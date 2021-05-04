@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lameck\\Desktop\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj": {}
+    "C:\\Users\\Lameck\\Desktop\\bd\\senai_sprint1_bd\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lameck\\Desktop\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj": {
+    "C:\\Users\\Lameck\\Desktop\\bd\\senai_sprint1_bd\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lameck\\Desktop\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj",
+        "projectUniqueName": "C:\\Users\\Lameck\\Desktop\\bd\\senai_sprint1_bd\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj",
         "projectName": "senai.inlock.webApi",
-        "projectPath": "C:\\Users\\Lameck\\Desktop\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj",
+        "projectPath": "C:\\Users\\Lameck\\Desktop\\bd\\senai_sprint1_bd\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\senai.inlock.webApi.csproj",
         "packagesPath": "C:\\Users\\Lameck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lameck\\Desktop\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\obj\\",
+        "outputPath": "C:\\Users\\Lameck\\Desktop\\bd\\senai_sprint1_bd\\InLock\\senai.inlock.webApi\\senai.inlock.webApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lameck\\AppData\\Roaming\\NuGet\\NuGet.Config",
