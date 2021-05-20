@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lameck\\Desktop\\Nova pasta\\vini\\2DM-S2-back-end\\api-postman\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj": {}
+    "C:\\Users\\saulo.santos\\Downloads\\SENAI\\CT\\2021-1S-2D\\senai-dev-1s2021-alunos\\sprint-2-back-end\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lameck\\Desktop\\Nova pasta\\vini\\2DM-S2-back-end\\api-postman\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj": {
+    "C:\\Users\\saulo.santos\\Downloads\\SENAI\\CT\\2021-1S-2D\\senai-dev-1s2021-alunos\\sprint-2-back-end\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lameck\\Desktop\\Nova pasta\\vini\\2DM-S2-back-end\\api-postman\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj",
+        "projectUniqueName": "C:\\Users\\saulo.santos\\Downloads\\SENAI\\CT\\2021-1S-2D\\senai-dev-1s2021-alunos\\sprint-2-back-end\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj",
         "projectName": "senai_peoples_webApi",
-        "projectPath": "C:\\Users\\Lameck\\Desktop\\Nova pasta\\vini\\2DM-S2-back-end\\api-postman\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj",
-        "packagesPath": "C:\\Users\\Lameck\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lameck\\Desktop\\Nova pasta\\vini\\2DM-S2-back-end\\api-postman\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\obj\\",
+        "projectPath": "C:\\Users\\saulo.santos\\Downloads\\SENAI\\CT\\2021-1S-2D\\senai-dev-1s2021-alunos\\sprint-2-back-end\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\senai_peoples_webApi.csproj",
+        "packagesPath": "C:\\Users\\saulo.santos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\saulo.santos\\Downloads\\SENAI\\CT\\2021-1S-2D\\senai-dev-1s2021-alunos\\sprint-2-back-end\\exercicios\\01_peoples\\senai_peoples_webApi\\senai_peoples_webApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lameck\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\saulo.santos\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,12 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -57,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

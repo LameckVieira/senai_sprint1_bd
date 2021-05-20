@@ -3,25 +3,17 @@ Para isto, você deverá ser capaz de:
 
 Banco de Dados:
 Script 01 :
-- criar o banco de dados M_Peoples/T_Peoples;
-- criar a Tabela de Funcionarios contendo nome e sobrenome;
-
+	criar o banco de dados M_Peoples/T_Peoples;
+	criar a Tabela de Funcionarios contendo nome e sobrenome;
 Script 02 :
-- inserir os funcionários Catarina Strada e Tadeu Vitelli;
-
+	inserir os funcionários Catarina Strada e Tadeu Vitelli;
 Script 03 :
-- selecionar todos os registros;
+	selecionar todos os registros;
 
 Backend:
 Criar um projeto chamado Senai.Peoples.WebApi;
 Criar o domínio correspondente;
-Criar a interface correspondente que contenha as ações de: 
-- listar;
-- buscar por id;
-- deletar;
-- atualizar;
-- inserir.
-
+Criar a interface correspondente que contenha as ações de: listar, buscar por id, deletar, atualizar e inserir;
 Criar o repositório correspondente à interface;
 Criar o controller contendo os seguintes métodos(verbos):
 

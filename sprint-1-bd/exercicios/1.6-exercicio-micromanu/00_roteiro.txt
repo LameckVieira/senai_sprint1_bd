@@ -7,3 +7,8 @@ O cliente B levou sua tv na MicroManu e o Daniel realizou a limpeza de todas as 
 
 O cliente pode verificar seus consertos no site da MicroManu.
 O colaborador pode encerrar o conserto.
+
+DQL
+
+- listar todos os pedidos dos clientes
+- listar todos os pedidos de um determinado cliente, mostrando quais foram os colaboradores que executaram o serviço, qual foi o tipo de conserto, qual item foi consertado e o nome deste cliente
